@@ -1,6 +1,6 @@
-# Adventure Trail Hikes
+# Gamehub
 
-![my image](images/gamehub_logo.png)
+![my image](images/gamehub/gamehub_logo.png)
 
 Create a website for young active adults that want to find a trail hike that suits them.
 
